@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "thumbnail": "https://raw.githubusercontent.com/AndreaDev3D/AD3D_StorageSolutionMod/master/.openmods/media/all_items.jpg",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://youtube.com/shorts/C-MoEBcvEBM?si=K9ZbNqleTI5rIwvp"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/AndreaDev3D/AD3D_StorageSolutionMod/master/.openmods/media/all_items.jpg"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/AndreaDev3D/AD3D_StorageSolutionMod/master/.openmods/media/thumbnail.png"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/AndreaDev3D/AD3D_StorageSolutionMod/master/.openmods/media/builder.png"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/AndreaDev3D/AD3D_StorageSolutionMod/master/.openmods/media/inventory.png"
+    }
+  ],
+  "install": {
+    "path": "BepInEx/plugins"
+  },
+  "dependencies": {
+    "v2.0.0": [
+      {
+        "modId": 30
+      }
+    ]
+  }
+}
